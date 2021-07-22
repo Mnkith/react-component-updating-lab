@@ -1,7 +1,7 @@
 # React: Component Mounting and Unmounting
 
 ## Objectives
-
+ 
 1. Describe what happens in the updating phase of the React component lifecycle
 2. Briefly introduce React Refs and their role in the component lifecycle
 3. Practice using `shouldComponentUpdate` and `componentDidUpdate`.
